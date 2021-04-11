@@ -1,6 +1,12 @@
+/First commit
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/E-Stanislav/test.git
+git remote add origin https://github.com/E-Stanislav/....git
+git push -u origin main
+
+/Second commit
+git add README.md
+git commit -m "first commit"
 git push -u origin main
